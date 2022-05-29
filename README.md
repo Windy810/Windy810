@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=windy810&count_private=true&show_icons=true&theme=tokyonight">](https://github.com/zyazhb)
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=windy810&count_private=true&show_icons=true&theme=tokyonight">](https://github.com/windy810)
+
+## Intro
 
 - 🌱 I’m currently learning EdgeComputing~
 - 🍑 My goal is to be a Digital Hero！ha-ha:)
